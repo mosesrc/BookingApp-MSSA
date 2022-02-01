@@ -1,0 +1,14 @@
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\bin\Debug\netcoreapp3.1\BookingApp.exe
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\bin\Debug\netcoreapp3.1\BookingApp.deps.json
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.json
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.dev.json
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\bin\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\bin\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.csproj.AssemblyReference.cache
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfoInputs.cache
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfo.cs
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.csproj.CoreCompileInputs.cache
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\rynmo\OneDrive\Desktop\MSSA\UnitedTraining\Project1\BookingApp\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.genruntimeconfig.cache

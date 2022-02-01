@@ -1,0 +1,24 @@
+Console App 
+Booking Music Lessons
+
+-- Initial thoughts:
+- Gives a list of Instructors - maybe each instructor 
+  has a file, Different Instructors for Different Instruments
+- Let user pick how many lessons they want
+- Lessons will be either 30 mins or an hour
+- Pricing will be allocated based on how many lessons 
+  user picks
+- Allow user to schedule lessons between 1pm to 6pm
+- Lessons would be scheduled weekly 
+- It must show "Vacant" for open lesson times and
+  "Booked" for lesson times not available
+- Booked lessons should also show the first name of 
+  User that Booked it
+- Should give user a file to show all their lessons 
+
+-- THINGS TO THINK ABOUT:
+ - Can you remove a instructor
+ - Can users remove a selected lesson time
+ - There needs to be one Manager and Multiple users
+ - Think about what can be shown in the console
+	ex. Calendar, any representation of a log???
