@@ -6,19 +6,21 @@ namespace BookingApp
     {
         static void Main(string[] args)
         {
+            Manager manager1 = new Manager("Ryan", "Moses", 30, "password");
             string userInput;
-            Manager manager1 = new Manager();
+            bool passValidate;
+
             do
             {
                 try
                 {
 
-                    Console.Write("Hello are you a Manager or Student?  Please answer by typing \"M\" or \"S\"");
+                    Console.Write("Hello are you a Manager or Student?  Please answer by typing \"M\" or \"S\":  ");
                     userInput = Console.ReadLine().ToUpper();
 
                     if (userInput == "M")
-                    { 
-
+                    {
+                       passValidate = manager1.PasswordCheck();   
                     }
                     else if (userInput == "S")
                     {
@@ -38,6 +40,7 @@ namespace BookingApp
 
             } while (true);
 
+            /*
             Console.WriteLine("Hello, Would you like to book a lesson with one of our teacher's? (yes / no");
 
             Console.WriteLine("What would you like to learn? we offer: ");
@@ -45,7 +48,7 @@ namespace BookingApp
             Console.WriteLine("Your preferred days of week are?");
 
             Console.WriteLine("You're preferred time: ");
-
+            */
         }
     }
 }
