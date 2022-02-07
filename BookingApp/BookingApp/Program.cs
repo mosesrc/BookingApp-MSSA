@@ -7,6 +7,8 @@ namespace BookingApp
         static void Main(string[] args)
         {
             Manager manager1 = new Manager("Ryan", "Moses", 30, "password");
+            Calendar FirstQuarter = new Calendar();
+            DataSource studioDatabase = new DataSource();
             string userInput;
             bool passValidate;
 
@@ -20,11 +22,40 @@ namespace BookingApp
 
                     if (userInput == "M")
                     {
-                       passValidate = manager1.PasswordCheck();   
+                        passValidate = manager1.PasswordCheck();
+                        Console.WriteLine(manager1);
+                        switch (manager1.ManagerMenu())
+                        {
+                            case 1:
+                                manager1.AddInstructor(studioDatabase);
+                                break;
+                            case 2:
+                                break;
+                            case 3:
+                                break;
+                            case 4:
+                                break;
+                            case 5:
+                                break;
+                            case 6:
+                                break;
+                            case 7:
+                                break;
+                            case 8:
+                                break;
+                            case 9:
+                                break;
+                            case 10:
+                                break;
+
+                        }
+
+
+
                     }
                     else if (userInput == "S")
                     {
-
+                        // Run book a lesson
                     }
                     else
                     {
@@ -40,15 +71,7 @@ namespace BookingApp
 
             } while (true);
 
-            /*
-            Console.WriteLine("Hello, Would you like to book a lesson with one of our teacher's? (yes / no");
 
-            Console.WriteLine("What would you like to learn? we offer: ");
-
-            Console.WriteLine("Your preferred days of week are?");
-
-            Console.WriteLine("You're preferred time: ");
-            */
         }
     }
 }
